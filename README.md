@@ -3,7 +3,7 @@ Fetch the coordinate of a city from Wikipedia
 
 ## Usage
 
-python3 getCoordinate.py "Bad Kreuznach"
+`python3 getCoordinate.py "Bad Kreuznach"`
 
 ## Requirements
 
